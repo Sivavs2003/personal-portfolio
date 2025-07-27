@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eaa8251d.css",
+    "main.js": "/portfolio/static/js/main.e281dcfe.js",
+    "static/media/Web Developement.jpg": "/portfolio/static/media/Web Developement.104fc54695dd3f7cf37e.jpg",
+    "static/media/AI coding 1 week.jpg": "/portfolio/static/media/AI coding 1 week.3aaa209ab2da8852f806.jpg",
+    "static/media/Networking.jpg": "/portfolio/static/media/Networking.95df8fc23ba246324f68.jpg",
+    "static/media/Java Programming.jpg": "/portfolio/static/media/Java Programming.0f496e4d89af9361bf6f.jpg",
+    "static/media/Java programming 10 days.jpg": "/portfolio/static/media/Java programming 10 days.175ccb57c562c2d82574.jpg",
+    "static/media/Web Designing Internship.jpg": "/portfolio/static/media/Web Designing Internship.16bb5d4c966231e03406.jpg",
+    "static/media/Kanniyamuari.png": "/portfolio/static/media/Kanniyamuari.5507b4793b13e630c4d1.png",
+    "static/media/To-Do.png": "/portfolio/static/media/To-Do.75e552ffc24253f66632.png",
+    "static/media/Web Application.jpg": "/portfolio/static/media/Web Application.79b1bf9e9e7fd157eb4b.jpg",
+    "static/media/TournamentHub.png": "/portfolio/static/media/TournamentHub.48fa15ff57280d4d7cf5.png",
+    "static/media/portflio.png": "/portfolio/static/media/portflio.0e8ee830457e6b7c84e9.png",
+    "static/media/Photograph.jpeg": "/portfolio/static/media/Photograph.ea21fa89cbb891a99b8c.jpeg",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.9b03b169b2337789108c.pdf",
+    "static/media/Audio detection.png": "/portfolio/static/media/Audio detection.313e9bb0fb9535b9eae7.png",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "index.html": "/portfolio/index.html",
+    "main.eaa8251d.css.map": "/portfolio/static/css/main.eaa8251d.css.map",
+    "main.e281dcfe.js.map": "/portfolio/static/js/main.e281dcfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa8251d.css",
+    "static/js/main.e281dcfe.js"
+  ]
+}
