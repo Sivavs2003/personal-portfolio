@@ -80,3 +80,114 @@ body::before {
 }
 
 
+
+@media (max-width: 768px) {
+  nav {
+    min-width: 90vw !important;
+    max-width: 95vw !important;
+    padding: 8px 20px !important;
+    gap: 16px !important;
+    top: 20px !important;
+  }
+  
+  nav ul {
+    gap: 16px !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+  
+  nav a {
+    font-size: 0.9rem !important;
+    padding: 6px 12px !important;
+  }
+  
+  #home h1 {
+    font-size: 2.2rem !important;
+  }
+  
+  #home h2 {
+    font-size: 1.3rem !important;
+  }
+  
+  
+  h2 {
+    font-size: 1.8rem !important;
+  }
+  
+  
+  #about, #projects, #skills, #contact, #experience, #certifications {
+    padding: 50px 15px !important;
+  }
+  
+  
+  #about > div {
+    flex-direction: column !important;
+    gap: 30px !important;
+    text-align: center !important;
+  }
+  
+  
+  #projects > div > div {
+    grid-template-columns: 1fr !important;
+    gap: 20px !important;
+  }
+  
+  #skills > div > div {
+    flex-direction: column !important;
+    gap: 16px !important;
+  }
+  
+  #skills > div > div > div {
+    gap: 16px !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  nav {
+    min-width: 85vw !important;
+    padding: 10px 30px !important;
+  }
+  
+  nav ul {
+    gap: 24px !important;
+  }
+  
+  #home h1 {
+    font-size: 2.8rem !important;
+  }
+  
+  #home h2 {
+    font-size: 1.5rem !important;
+  }
+  
+  h2 {
+    font-size: 2rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  nav {
+    min-width: 95vw !important;
+    padding: 6px 15px !important;
+  }
+  
+  nav a {
+    font-size: 0.8rem !important;
+  }
+  
+  #home h1 {
+    font-size: 1.8rem !important;
+  }
+  
+  #home h2 {
+    font-size: 1.1rem !important;
+  }
+  
+  h2 {
+    font-size: 1.6rem !important;
+  }
+}
+
+
